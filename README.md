@@ -1,12 +1,12 @@
 Hi there, I'm Dima 👋
 
-- 🔭 I’m currently working on myself!
-- 🌱 I’m currently learning everything I can get my hands on!
-- 🤔 I’m looking for help with finding more time in a single day!
-- <a href="amgpetronass@gmail.com"><img align="left" alt="gmail" width="32px" src="./icons/gmail.png" /><a/>
-- <a href="linkedin.com/in/dima-tytenko-a5b26a21b"> <img align="left" alt="linkedin" width="32px" src="./icons/linkedin.png" /> <a/>
+🔭 I’m currently working on myself!
+🌱 I’m currently learning everything I can get my hands on!
+🤔 I’m looking for help with finding more time in a single day!
+<a href="amgpetronass@gmail.com"><img align="left" alt="gmail" width="32px" src="./icons/gmail.png" /><a/>
+<a href="linkedin.com/in/dima-tytenko-a5b26a21b"> <img align="left" alt="linkedin" width="32px" src="./icons/linkedin.png" /><a/>
 
-### My stack and tools
+My stack and tools
 
 <img align="left" alt="github" width="32px" src="./icons/github.png" />
 <img align="left" alt="visual-studio" width="32px" src="./icons/visual-studio.png" />
