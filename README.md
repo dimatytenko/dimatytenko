@@ -6,3 +6,4 @@ Hi there, I'm Dima 👋
 - 🤔 I’m looking for help with finding more time in a single day!
 - 📫 How to reach me: amgpetronass@gmail.com
 - 📫 How to reach me: linkedin.com/in/dima-tytenko-a5b26a21b
+![](https://www.flaticon.com/ru/free-icon/html-5_2535518?term=html5&page=1&position=4&page=1&position=4&related_id=2535518&origin=tag)
