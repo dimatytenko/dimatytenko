@@ -10,4 +10,4 @@ Hi there, I'm Dima 👋
 
 <img align="left" alt="html5" width="32px" src="./icons/free-icon-html-5-2535518.png" />
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="css" width="32px" src="./icons/css.png" />
