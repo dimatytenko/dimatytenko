@@ -4,7 +4,7 @@
 + 🌱 I’m currently learning *everything I can get my hands on!*
 + 🤔 I’m looking for help with finding *more time in a single day!*
 +  <img align="left" alt="gmail" width="32px" src="./icons/gmail.png" /> - amgpetronass@gmail.com
-  
+  #
  <a href="https://www.linkedin.com/in/dima-tytenko-a5b26a21b/"> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)</a>
  <a/>
 <a href="https://github.com/dimatytenko"> ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)
