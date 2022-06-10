@@ -3,8 +3,8 @@ Hi there, I'm Dima 👋
 - 🔭 I’m currently working on myself!
 - 🌱 I’m currently learning everything I can get my hands on!
 - 🤔 I’m looking for help with finding more time in a single day!
-- 📫 How to reach me: <img align="left" alt="gmail" width="32px" src="./icons/gmail.png" /> amgpetronass@gmail.com
-- 📫 How to reach me: <img align="left" alt="linkedin" width="32px" src="./icons/linkedin.png" /> linkedin.com/in/dima-tytenko-a5b26a21b
+- <img align="left" alt="gmail" width="32px" src="./icons/gmail.png" /> amgpetronass@gmail.com
+- <img align="left" alt="linkedin" width="32px" src="./icons/linkedin.png" /> linkedin.com/in/dima-tytenko-a5b26a21b
 
 ### My stack and tools
 
