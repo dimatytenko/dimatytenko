@@ -1,14 +1,15 @@
-Hi there, I'm Dima 👋
+## **Hi there, I'm Dima** 👋
 
-- 🔭 I’m currently working on myself!
-- 🌱 I’m currently learning everything I can get my hands on!
-- 🤔 I’m looking for help with finding more time in a single day!
-- <a href="https://www.linkedin.com/in/dima-tytenko-a5b26a21b/"><img align="left" alt="linkedin" width="32px" src="./icons/linkedin.png" /><a/>
++ 🔭 I’m currently working on *myself!*
++ 🌱 I’m currently learning *everything I can get my hands on!*
++ 🤔 I’m looking for help with finding *more time in a single day!*
++ ![](https://img.shields.io/twitter/url?color=blue&label=linkedin&logo=linkedin&logoColor=blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdima-tytenko-a5b26a21b%2F)
++ <a href="https://www.linkedin.com/in/dima-tytenko-a5b26a21b/"><img align="left" alt="linkedin" width="32px" src="./icons/linkedin.png" />
++ <a/>
   <img align="left" alt="gmail" width="32px" src="./icons/gmail.png" /> - amgpetronass@gmail.com
 
-###
 
-My stack and tools
+## My stack and tools
 
 <img align="left" alt="github" width="32px" src="./icons/github.png" />
 <img align="left" alt="visual-studio" width="32px" src="./icons/visual-studio.png" />
