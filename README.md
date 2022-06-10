@@ -8,6 +8,6 @@ Hi there, I'm Dima 👋
 
 ### My stack and tools
 
-<img align="left" alt="JavaScript" width="32px" src="https://www.flaticon.com/ru/free-icon/html-5_2535518?term=html5&page=1&position=4&page=1&position=4&related_id=2535518&origin=tag" />
+<img align="left" alt="JavaScript" width="32px" src="https://www.flaticon.com/ru/free-icons/html5" />
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
