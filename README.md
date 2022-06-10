@@ -6,8 +6,6 @@ Hi there, I'm Dima 👋
 - <a href="amgpetronass@gmail.com"><img align="left" alt="gmail" width="32px" src="./icons/gmail.png" /><a/>
 - <a href="linkedin.com/in/dima-tytenko-a5b26a21b"> <img align="left" alt="linkedin" width="32px" src="./icons/linkedin.png" /> <a/>
 
--
-
 ### My stack and tools
 
 <img align="left" alt="github" width="32px" src="./icons/github.png" />
