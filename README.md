@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**dimatytenko/dimatytenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi there, I'm Dima 👋
 
@@ -10,4 +6,3 @@ Hi there, I'm Dima 👋
 - 🤔 I’m looking for help with finding more time in a single day!
 - 📫 How to reach me: amgpetronass@gmail.com
 - 📫 How to reach me: linkedin.com/in/dima-tytenko-a5b26a21b
--->
