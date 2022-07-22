@@ -23,3 +23,5 @@
 <img alt="physics" width="32px" src="./icons/physics.png" />
 <img alt="node" width="32px" src="./icons/nodejs.png" />
 </div>
+
+https://github-readme-stats.vercel.app/api?username=dimatytenko&show_icons=true&title_color=3d85c6&icon_color=cfe2f3)](https://github.com/dimatytenko/github-readme-stats
