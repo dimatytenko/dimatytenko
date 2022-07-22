@@ -6,15 +6,12 @@
 +  <img align="left" alt="gmail" width="32px" src="./icons/gmail.png" /> - amgpetronass@gmail.com
   #
  <a href="https://www.linkedin.com/in/dima-tytenko-a5b26a21b/"> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)</a>
- <a/>
-<a href="https://github.com/dimatytenko"> ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+ <a href="https://github.com/dimatytenko"> ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)
 </a>
 
 #
 ## My stack and tools
-<div styles="display: flex;
-    gap: 15px;
-    flex-wrap: wrap;">
+<div>
 <img alt="github" width="32px" src="./icons/github.png" />
 <img alt="visual-studio" width="32px" src="./icons/visual-studio.png" />
 <img alt="html5" width="32px" src="./icons/free-icon-html-5-2535518.png" />
