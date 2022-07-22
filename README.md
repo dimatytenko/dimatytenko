@@ -11,7 +11,9 @@
 </a>
 
 ## My stack and tools
-<div>
+<div styles="display: flex;
+    gap: 15px;
+    flex-wrap: wrap;">
 <img alt="github" width="32px" src="./icons/github.png" />
 <img alt="visual-studio" width="32px" src="./icons/visual-studio.png" />
 <img alt="html5" width="32px" src="./icons/free-icon-html-5-2535518.png" />
