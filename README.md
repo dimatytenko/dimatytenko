@@ -10,6 +10,7 @@
 <a href="https://github.com/dimatytenko"> ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)
 </a>
 
+#
 ## My stack and tools
 <div styles="display: flex;
     gap: 15px;
@@ -24,4 +25,8 @@
 <img alt="node" width="32px" src="./icons/nodejs.png" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimatytenko&show_icons=true&title_color=3d85c6&icon_color=cfe2f3)](https://github.com/dimatytenko/github-readme-stats)
+#
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimatytenko&show_icons=true&title_color=8c0505&icon_color=8c0505)](https://github.com/dimatytenko/github-readme-stats)
+
+#  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimatytenko&layout=compact&show_icons=true&title_color=3d85c6&icon_color=cfe2f3)](https://github.com/dimatytenko/github-readme-stats)
