@@ -12,11 +12,11 @@
 
 ## My stack and tools
 
-<img align="left" style="margin-bottom: 20px;"   alt="github" width="32px" src="./icons/github.png" />
-<img align="left" style="margin-bottom: 20px;" alt="visual-studio" width="32px" src="./icons/visual-studio.png" />
-<img align="left" style="margin-bottom: 20px;" alt="html5" width="32px" src="./icons/free-icon-html-5-2535518.png" />
-<img align="left" style="margin-bottom: 20px;" alt="css" width="32px" src="./icons/css.png" />
-<img align="left" style="margin-bottom: 20px;" alt="java-script" width="32px" src="./icons/java-script.png" />
-<img align="left" style="margin-bottom: 20px;" alt="sass" width="32px" src="./icons/sass.png" />
-<img align="left" style="margin-bottom: 20px;" alt="physics" width="32px" src="./icons/physics.png" />
-<img align="left" style="margin-bottom: 20px;" alt="node" width="32px" src="./icons/nodejs.png" />
+<img style="margin-bottom: 20px; margin-right: 20px;"   alt="github" width="32px" src="./icons/github.png" />
+<img style="margin-bottom: 20px; margin-right: 20px;" alt="visual-studio" width="32px" src="./icons/visual-studio.png" />
+<img style="margin-bottom: 20px; margin-right: 20px;" alt="html5" width="32px" src="./icons/free-icon-html-5-2535518.png" />
+<img style="margin-bottom: 20px; margin-right: 20px;" alt="css" width="32px" src="./icons/css.png" />
+<img style="margin-bottom: 20px; margin-right: 20px;"" alt="java-script" width="32px" src="./icons/java-script.png" />
+<img style="margin-bottom: 20px; margin-right: 20px;" alt="sass" width="32px" src="./icons/sass.png" />
+<img style="margin-bottom: 20px; margin-right: 20px;" alt="physics" width="32px" src="./icons/physics.png" />
+<img style="margin-bottom: 20px; margin-right: 20px;" alt="node" width="32px" src="./icons/nodejs.png" />
