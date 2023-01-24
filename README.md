@@ -13,11 +13,16 @@
 ## My stack and tools
 <div>
 <img alt="github" width="32px" src="./icons/github.png" />
+<img alt="gitlab" width="32px" src="./icons/gitlab.png" />
 <img alt="visual-studio" width="32px" src="./icons/visual-studio.png" />
 <img alt="html5" width="32px" src="./icons/free-icon-html-5-2535518.png" />
 <img alt="css" width="32px" src="./icons/css.png" />
-<img alt="java-script" width="32px" src="./icons/java-script.png" />
+<img alt="javascript" width="32px" src="./icons/java-script.png" />
+<img alt="typescript" width="32px" src="./icons/typescript.png" />
 <img alt="sass" width="32px" src="./icons/sass.png" />
+<img alt="styled" width="32px" src="./icons/styled.png" />
+<img alt="mongodb" width="32px" src="./icons/mongodb.png" />
+<img alt="express" width="32px" src="./icons/express.png" />
 <img alt="physics" width="32px" src="./icons/physics.png" />
 <img alt="node" width="32px" src="./icons/nodejs.png" />
 </div>
